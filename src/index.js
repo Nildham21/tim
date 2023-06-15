@@ -9,7 +9,6 @@ import { Provider as SpectrumProvider, defaultTheme } from '@adobe/react-spectru
 
 import App from './App';
 import { configureAppStore } from './configureStore';
-import * as serviceWorker from './serviceWorker';
 
 import './index.css';
 
