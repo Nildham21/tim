@@ -2,7 +2,7 @@
   "name": "tim",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cartograforce.github.io/tim",
+  "homepage": "https://nildham21.github.io/tim",
   "dependencies": {
     "@adobe/react-spectrum": "^3.5.0",
     "@reduxjs/toolkit": "^1.4.0",
